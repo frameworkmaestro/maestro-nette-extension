@@ -1,2 +1,2 @@
 # maestro-nette-extension
-Maestro as a Extension of Nette Framework
+Maestro as an extension for Nette Framework

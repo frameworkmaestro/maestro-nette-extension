@@ -1,0 +1,25 @@
+{
+  "name": "frameworkmaestro/maestro-nette-extension",
+  "description": "Maestro as extension for Nette",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ely Matos",
+      "email": "ely.matos@gmail.com"
+    }
+  ],
+  "require": {
+    "nette/neon": "^2.4",
+    "nette/utils": "^2.5",
+    "nette/di": "^2.4",
+    "nette/bootstrap": "^2.4.2",
+    "nette/robot-loader": "^2.4 || ^3.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Maestro\\": "src"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# PHPStorm #
+############
+.idea
+
+# netbeans #
+#####################
+nbproject/*
+
+# Visual Studio Code #
+######################
+.vscode
+
+# Composer #
+############
+vendor
+build
+composer.lock
+
+# Subversion #
+##############
+.svn
+
+# Apache & Web #
+################
+.htaccess
+info.php
+

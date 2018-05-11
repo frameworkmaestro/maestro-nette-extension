@@ -1,0 +1,6 @@
+extensions:
+    maestro: \Maestro\DI\MaestroExtension
+
+maestro:
+    options:
+        mode: 'dev'
