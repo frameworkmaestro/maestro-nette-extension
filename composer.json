@@ -2,6 +2,8 @@
   "name": "frameworkmaestro/maestro-nette-extension",
   "description": "Maestro as extension for Nette",
   "license": "MIT",
+  "keywords": ["ddd", "orm"],
+  "type": "package",
   "authors": [
     {
       "name": "Ely Matos",
@@ -21,5 +23,7 @@
     "psr-4": {
       "Maestro\\": "src"
     }
-  }
+  },
+  "version": "1.0.0", 
+  "minimum-stability": "dev"
 }
